@@ -1,0 +1,8 @@
+server:
+  port: 8002
+spring:
+  common:
+  leaderboard:
+    url: jdbc:mysql://xxx.xxx.us-east-1.rds.amazonaws.com:3306/interactive-leaderboard?useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=EST5EDT
+    username: xxxx
+    password: xxxx
